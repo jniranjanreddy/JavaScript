@@ -1,1 +1,2 @@
 # JavaScript
+Internal Javascript
