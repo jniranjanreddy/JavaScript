@@ -20,6 +20,7 @@ ES9/ES2018
 ES10/ES2019
 ES11/2020
 ```
-| Data Types       |       Explation      |
-|------------------|----------------------|
+| Primitive Data Types       |       Explation      |
+|----------------------------|----------------------|
+| Number | Floating Numbers| Used for Decimals and integers |
 
