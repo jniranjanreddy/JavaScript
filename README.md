@@ -3,7 +3,7 @@ Brendan Eich - Inventor of JavaScript
  
 Internal Javascript
 
-##Javascript Themes for VSCode
+## Javascript Themes for VSCode
 
 ## Shortcut keys
 Ctrl+Shift+j --> Console in google Chrome.
