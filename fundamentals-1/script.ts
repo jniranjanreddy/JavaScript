@@ -5,12 +5,10 @@ let firstName  = "Niranjan";
 let secondName = "Reddy";
 let lastName   = "Jannapureddy";
 let age = 30;
-let lapTop = 'Lenova';
-console.log(lapTop)
-lapTop = 'Dell';
-// console.log(typeof firstName)
-// console.log(typeof age)
-// console.log(`${firstName} ${secondName} ${lastName}`)
-console.log(lapTop)
+
+console.log(typeof firstName)
+console.log(typeof age)
+console.log(`${firstName} ${secondName} ${lastName}`)
+
 // true;
 // console.log(true)
