@@ -8,7 +8,7 @@ Internal Javascript
 ## Shortcut keys
 Ctrl+Shift+j --> Console in google Chrome.
 
-
+```
 JavaScript Versions
 ES  - Ecma Script
 
@@ -19,7 +19,7 @@ ES8/ES2017
 ES9/ES2018
 ES10/ES2019
 ES11/2020
-
-| Data Types |
+```
+| Data Types | Explation |
 
 
