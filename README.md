@@ -24,3 +24,6 @@ ES11/2020
 |----------------------------|----------------------|
 | Number | Floating Numbers| Used for Decimals and integers |
 
+
+
+String - White Color
