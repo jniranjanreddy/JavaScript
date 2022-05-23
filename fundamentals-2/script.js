@@ -14,9 +14,12 @@
 // console.log(lapTop)
 // // true;
 // // console.log(true)
+//const age = 19;
+'use strict';
+let hasDrivingLicense = false;
+const passtest = true;
 
-const age = 19;
-
+if 
 
 
 
