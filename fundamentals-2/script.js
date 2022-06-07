@@ -18,12 +18,3 @@
 'use strict';
 let hasDrivingLicense = false;
 const passtest = true;
-
-if 
-
-
-
-
-
-
-
