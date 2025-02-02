@@ -24,6 +24,7 @@ ES11/2020
 |----------------------------|----------------------|
 | Number | Floating Numbers| Used for Decimals and integers |
 
-
-
 String - White Color
+
+![image](https://github.com/user-attachments/assets/e88c7275-b197-4662-941c-829707fbd8fb)
+
