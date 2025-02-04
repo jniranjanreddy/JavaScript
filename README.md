@@ -27,4 +27,5 @@ ES11/2020
 String - White Color
 
 ![image](https://github.com/user-attachments/assets/e88c7275-b197-4662-941c-829707fbd8fb)
+![image](https://github.com/user-attachments/assets/00790e2c-590e-4214-a9d1-c2baad751c2d)
 
